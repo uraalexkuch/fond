@@ -22,7 +22,7 @@ a {
 .img-fluid-missia{
   width: 80%;
   height: 80%;
-  object-fit: cover;
+  object-fit: contain;
 
 }
 a:hover {
