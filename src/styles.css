@@ -672,8 +672,8 @@ h6 {
   height: 400px;
   background-color: #f1eddc;
   border-radius: 20px;
-  -webkit-box-shadow: inset 0px 40px 86px -86px rgb(0,0,0);
-  -moz-box-shadow: inset 0px 40px 86px -86px rgb(0,0,0);
+  -webkit-box-shadow: inset 0 40px 86px -86px rgb(0,0,0);
+  -moz-box-shadow: inset 0 40px 86px -86px rgb(0,0,0);
   box-shadow: inset 0 40px 86px -86px #000;
   margin-top: 30px;
   margin-bottom: 30px
@@ -1546,3 +1546,6 @@ a{
   background-position: 0 100%;
   background-repeat: no-repeat;
 }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

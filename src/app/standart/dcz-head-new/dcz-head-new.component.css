@@ -507,7 +507,7 @@ img {
   background-color: white;
   z-index: 10;
   transition: 0.25s linear opacity;
-  box-shadow: 0px 3px 43px 1px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 3px 43px 1px rgba(0, 0, 0, 0.3);
 }
 
 ul.sub-menu {
